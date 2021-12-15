@@ -1,4 +1,4 @@
-<h2 align="center"> Salve! Eu sou o Luiz 👋 </h2>
+<h1 align="center"> Salve! Eu sou o Luiz 👋 </h1>
 
 <div align="center">
   <a href="https://github.com/LuizRubioliCosta">
